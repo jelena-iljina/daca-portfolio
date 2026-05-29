@@ -1,102 +1,48 @@
 # 📊 UrbanStyle Dashboard Design Projekt
 
-## 🧩 Projekti ülevaade
-Selles grupiprojektis lõime erinevatele stakeholder’itele mõeldud dashboard’id ettevõtte UrbanStyle OÜ müügi-, kliendi-, inventuuri- ja tootandmete põhjal.  
-Eesmärk oli näidata, kuidas sama andmestikku saab visualiseerida erinevalt sõltuvalt kasutaja vajadusest ja ärieesmärgist.
+## My Role
+**Operations Dashboard Analyst**
 
-Projekt valmis DACA programmi raames kursusel “Visualiseerimise disain”.
-
----
-
-# 👥 Stakeholder’ite põhised dashboard’id
-
-Iga meeskonnaliige lõi dashboard’i erinevale äripoolele:
-
-- 👔 CEO Dashboard — ettevõtte üldised KPI-d ja kasv
-- 📣 Marketing Dashboard — kanalite tulemuslikkus
-- 📦 Operations Dashboard — inventuur ja protsessid
-- 💼 Investor Dashboard — strateegiline koondvaade investoritele
-
-Projekt keskendus sellele, kuidas:
-- valida õiged visualiseerimised,
-- esitada andmeid äriliselt arusaadaval kujul,
-- luua loogilise ülesehitusega dashboard,
-- ning muuta keerulised andmed lihtsasti loetavaks.
+I was responsible for creating the **Operations Dashboard** in **Power BI**.  
+My role included:
+- connecting data sources,
+- building visualizations,
+- analyzing sales and inventory data,
+- presenting insights in a clear and business-focused way.
 
 ---
 
-# 🛠 Kasutatud tööriistad ja tehnoloogiad
+## 📌 What We Did
+As a team, we analyzed **Urban Style’s business performance** using **SQL, Power BI, and presentation-based reporting**.
 
-- 🐍 Python
-- 📊 Plotly / Streamlit või Power BI
-- 🗄 SQL
-- 📑 Pandas
-- ☁ Supabase API
-- 🎨 Dashboard’i disainiprintsiibid
-
----
-
-# 📈 Minu roll projektis — Roll C
-
-Minu roll projektis oli seotud andmete töötlemise ja KPI-de ettevalmistamisega dashboard’ide jaoks.
-
-### Minu peamised ülesanded:
-- 📥 müügi- ja kliendiandmete laadimine ning ühendamine
-- 🧹 andmete puhastamine ja NULL-väärtuste käsitlemine
-- 📅 nädalaste agregaatide arvutamine
-- 📊 KPI-de loomine (käive, tellimuste arv, keskmine ostukorv jne)
-- 🔗 erinevate andmestike ühendamine (`merge`)
-- 📈 andmete ettevalmistamine visualiseerimiseks
-
-Töö käigus kirjutasin Pythoni funktsioone, mis võimaldasid automaatselt töödelda suuri andmemahte ja tagastada struktureeritud DataFrame’e edasiseks analüüsiks.
+Our work focused on:
+- 📈 sales performance analysis,
+- 📦 inventory distribution analysis,
+- 👥 customer and revenue trends,
+- 🖥️ presenting key insights through dashboards and presentation slides.
 
 ---
 
-# 🎯 Peamised äriküsimused
-
-Dashboard’id pidid vastama järgmistele küsimustele:
-
-- 📈 Kas ettevõtte müügitulu kasvab?
-- 📣 Millised kanalid töötavad kõige paremini?
-- 🛍 Milline on keskmine tellimuse väärtus?
-- 📦 Kuidas jaotuvad müügid nädalate lõikes?
-- 💼 Millised KPI-d on investoritele kõige olulisemad?
+##  Why This Is Important for Business
+- Helps identify the strongest **sales locations and channels**.
+- Supports better **inventory planning** across categories.
+- Makes **seasonal sales patterns** easier to understand.
+- Improves decision-making for **marketing, stock management, and resource allocation**.
 
 ---
 
-# 🎨 Disainiprintsiibid
-
-Projektis kasutasime järgmisi visualiseerimise põhimõtteid:
-
-- ✅ selged pealkirjad ja KPI-d
-- ✅ minimalistlik ja loetav disain
-- ✅ õigete diagrammitüüpide kasutamine
-- ✅ ühtne värviskeem
-- ✅ loogiline infohierarhia
-- ✅ dashboard ilma liigse infomürata
+## 📊 Key Results
+-  Urban Style reached **€2.91M** in total revenue.
+-  The customer base grew to **3.15K**.
+-  Annual sales growth reached **19%**.
+-  Tallinn generated the largest share of sales (**37.54%**).
+-  Sales showed strong **seasonal peaks**, especially at the end of the year.
+-  Men’s clothing had the highest inventory level, while accessories had the lowest.
 
 ---
 
-# 💡 Projekti tulemused
-
-Analüüsi käigus:
-- 📈 arvutati välja nädalased müügitrendid
-- 👥 leiti unikaalsete klientide arv
-- 🛍 arvutati keskmine tellimuse väärtus
-- 💰 määrati kogu müügitulu
-- 📊 võrreldi erinevate müügikanalite tulemusi
-
-Lõplik investor-dashboard ühendas kõige olulisemad KPI-d ja ärilised järeldused üheks terviklikuks ülevaateks.
-
----
-
-# 🤖 AI kasutamine
-
-Kasutasin AI-d:
-- Pythoni ja SQL loogika kontrollimiseks,
-- andmete töötlemise funktsioonide parandamiseks,
-- KPI arvutuste valideerimiseks,
-- README struktuuri ja dokumentatsiooni täiendamiseks,
-- ning tehniliste vigade lahendamise kiirendamiseks.
-
-AI aitas muuta tööprotsessi efektiivsemaks ja parandada koodi loetavust ning kvaliteeti.
+## 🤖 Use of AI
+I used AI as a learning support tool to:
+- learn how to **install and start using Power BI**,
+- understand how to **connect Power BI to tables and a database in Supabase**,
+- improve my understanding of **dashboard creation and data visualization**.
