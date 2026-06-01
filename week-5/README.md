@@ -1,5 +1,21 @@
 # 📊 UrbanStyle Dashboard Design Projekt
 
+## Business Context
+Urban Style is a retail business that needs to monitor its sales performance, customer activity, and inventory distribution across different locations and product categories.
+
+For a retail company, it is important to understand:
+- which stores generate the highest revenue,
+- how sales change over time,
+- which product categories require more inventory attention,
+- when seasonal peaks happen,
+- and how these insights can improve planning and decision-making.
+
+This dashboard was created to provide a visual and practical overview of business performance so that managers can make better decisions about:
+- stock planning,
+- marketing activities,
+- workforce allocation,
+- and seasonal campaign timing.
+
 ## My Role
 **Operations Dashboard Analyst**
 
