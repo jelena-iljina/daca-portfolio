@@ -39,6 +39,8 @@ Our work focused on:
 -  Sales showed strong **seasonal peaks**, especially at the end of the year.
 -  Men’s clothing had the highest inventory level, while accessories had the lowest.
 
+<img width="1429" height="535" alt="image" src="https://github.com/user-attachments/assets/ba88563f-39ca-4070-a884-4b69e3106fea" />
+
 ---
 
 ## 🤖 Use of AI
