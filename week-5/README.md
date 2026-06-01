@@ -41,6 +41,12 @@ Our work focused on:
 
 <img width="1429" height="535" alt="image" src="https://github.com/user-attachments/assets/ba88563f-39ca-4070-a884-4b69e3106fea" />
 
+<img width="1331" height="748" alt="image" src="https://github.com/user-attachments/assets/394390f7-71f7-46d4-82b3-1b09662e2389" />
+
+<img width="1330" height="744" alt="image" src="https://github.com/user-attachments/assets/f1b254f2-77ef-4d73-9b6d-e36813a343ec" />
+
+
+
 ---
 
 ## 🤖 Use of AI
